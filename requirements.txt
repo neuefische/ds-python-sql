@@ -1,0 +1,6 @@
+jupyterlab
+pandas
+duckdb
+fugue
+SQLAlchemy
+duckdb-engine
