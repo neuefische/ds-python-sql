@@ -4,4 +4,4 @@ duckdb
 fugue
 SQLAlchemy
 duckdb-engine
-ipython-sql==0.4.1
+jupysql
