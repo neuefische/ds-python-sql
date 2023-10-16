@@ -13,7 +13,7 @@ In this workshop we will be using Fugue and DuckDB and practice manipulating dat
 ### Setup
 
 Requirements:
-- python > 3.10
+- python > 3.10 but python < 3.12
 
 If you use environments, do make a new environment and activated it. Then install the libraries:
 
@@ -28,7 +28,7 @@ win:
 Alternatively you can create an account on [gitpod](https://www.gitpod.io) and use gitpod for the workshop.
 - created a gitpod account (you can select github to authenticate)
 - create new workspace and paste the link of this repo
-- open ssh with token, and install the libraries with ```pip install -r requirements.txt```
+- open ssh with token, install a python version with ```pyenv install 3.11.3``` and set the python version with ```pyenv global 3.11.3``` and install the libraries with ```pip install -r requirements.txt```
 - open vscode from gitpod, and follow all the prompts (you need to have vscode installed locally). Alternatively, if you are a pycharm user, open that.
 
 ### Problem:
