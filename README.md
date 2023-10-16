@@ -31,7 +31,8 @@ Alternatively you can create an account on [gitpod](https://www.gitpod.io) and u
 - open ssh with token, and install the libraries with ```pip install -r requirements.txt```
 - open vscode from gitpod, and follow all the prompts (you need to have vscode installed locally). Alternatively, if you are a pycharm user, open that.
 
-
+### Problem:
+ Our data science team needs features for predicting the customer life time value. The features they've asked for are recency, frequency and monetary value.
 
 ### Notebooks:
 - [Intro-sql-in-python](Intro-sql-in-python.ipynb)
