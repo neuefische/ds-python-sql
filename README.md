@@ -31,6 +31,13 @@ Alternatively you can create an account on [gitpod](https://www.gitpod.io) and u
 - open ssh with token, install a python version with ```pyenv install 3.11.3``` and set the python version with ```pyenv global 3.11.3``` and install the libraries with ```pip install -r requirements.txt```
 - open vscode from gitpod, and follow all the prompts (you need to have vscode installed locally). Alternatively, if you are a pycharm user, open that.
 
+GITPOD.io!
+Change the Python version (libraries don't yet work with 3.12): 
+```sh 
+pyenv install 3.11.3
+pyenv global 3.11.3
+```
+
 ### Problem:
  Our data science team needs features for predicting the customer life time value. The features they've asked for are recency, frequency and monetary value.
 
