@@ -13,7 +13,7 @@ In this workshop we will be using Fugue and DuckDB and practice manipulating dat
 ### Setup
 
 Requirements:
-- python > 3.10 but python < 3.12
+- python > 3.10 but python <= 3.11.3
 
 If you use environments, do make a new environment and activated it. Then install the libraries:
 
